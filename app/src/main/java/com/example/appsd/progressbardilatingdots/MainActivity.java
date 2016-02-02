@@ -17,5 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
         final AnimatedDotsView yellow = (AnimatedDotsView) findViewById(R.id.adv_2);
         yellow.startAnimation();
+
+
     }
 }
